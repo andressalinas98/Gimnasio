@@ -1,0 +1,39 @@
+body{
+	background-color: gray;
+}
+td{
+	font-family: verdana;
+	text-align: center;
+}
+
+#T1{
+    font-family: 'Anton', sans-serif;
+    background: rgb(102,215,78);
+    height: 100px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+#ST2{
+    padding-top: 15px;
+    color: black;
+    font-weight: bold;
+    
+}
+#ST1{
+    padding: .375rem .75rem;
+    margin-bottom: 0;
+    font-size: 120%;
+    line-height: 1.5;
+    color: black;
+    font-weight: bold;
+    white-space: nowrap;
+    text-decoration: underline;
+}
+table{
+    margin: auto;
+    border-color: rgb(229,179,56);
+    background-color: rgb(229,218,56);
+}

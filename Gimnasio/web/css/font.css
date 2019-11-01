@@ -1,0 +1,30 @@
+body{
+	background-color: gray;
+}
+td{
+	font-family: verdana;
+	text-align: center;
+}
+#Titulo1 {
+	background-color:black;
+	color: white;
+	text-align: center;
+	font-family: verdana;
+}
+#Subtitulos{
+	background-color: rgb(206,201,200);
+	text-align: center;
+}
+#tabla1{
+	margin: auto;
+	border-color: rgb(58,137,26);
+	background-color: rgb(62,188,11);
+}
+#tabla2{
+	margin: auto;
+	border-color: rgb(58,137,26);
+	background-color: rgb(62,188,11);
+}
+#ST1{
+	background-color: rgb(118,215,78);
+}
